@@ -1,0 +1,3 @@
+This is a repository where ChromaDB is defined and this is a one kind of vector database where we store our data(text, image, video) in vector dimension format. The dimensity depends on the model. Companies are responsible for the vector dimension. For understanding this kind of vector database, we need to install few libratries and through this libraries we will import few classes and through this classes we will call few methods to convert our data into vectors. The required libraries are going to be installed through a file that is requirements.txt.
+
+Just type 'pip install -r requirements.txt'

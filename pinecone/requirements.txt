@@ -1,0 +1,5 @@
+langchain
+pinecone-client==2.2.4
+pypdf
+sentence-transformers==2.2.2
+openai
